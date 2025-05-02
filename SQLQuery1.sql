@@ -1,0 +1,16 @@
+INSERT INTO Patient (id_patient, nom, prenom, sexe, date_naissance, adresse, telephone) VALUES
+(1, 'Diop', 'Awa', 'F', '1990-05-15', 'Dakar Plateau', '771234567'),
+(2, 'Sarr', 'Moussa', 'M', '1985-07-20', 'Pikine', '772345678'),
+(3, 'Fall', 'Fatou', 'F', '1992-10-12', 'Yoff', '773456789'),
+(4, 'Ba', 'Amadou', 'M', '1988-02-28', 'Medina', '774567890'),
+(5, 'Sy', 'Mame', 'F', '1995-09-14', 'Hann', '775678901'),
+(6, 'Ngom', 'Aliou', 'M', '1975-06-01', 'Thiaroye', '776789012'),
+(7, 'Faye', 'Seynabou', 'F', '1998-12-30', 'Ouakam', '777890123'),
+(8, 'Ndoye', 'Lamine', 'M', '1991-03-10', 'Keur Massar', '778901234'),
+(9, 'Kane', 'Astou', 'F', '2000-01-22', 'Guédiawaye', '779012345'),
+(10, 'Mbaye', 'Cheikh', 'M', '1987-11-05', 'Liberté 6', '770123456'),
+(11, 'Camara', 'Mariama', 'F', '1993-08-18', 'Mermoz', '770234567'),
+(12, 'Dieng', 'Issa', 'M', '1982-04-01', 'Dalifort', '770345678'),
+(13, 'Ndiaye', 'Khady', 'F', '1979-09-30', 'Point E', '770456789'),
+(14, 'Gueye', 'Binta', 'F', '1996-05-06', 'Parcelles', '770567890'),
+(15, 'Seck', 'Babacar', 'M', '1984-12-11', 'Sicap Baobab', '770678901');

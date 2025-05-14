@@ -6,7 +6,7 @@ Ce projet consiste à la modélisation et à l’implémentation d’une base de
 
 ## 1. Modélisation Conceptuelle
 https://lucid.app/lucidchart/1e734f38-2490-4755-b099-b471a3ed4644/edit?viewport_loc=-1423%2C-2270%2C5275%2C2573%2C0_0&invitationId=inv_23076747-f15f-4f30-af45-bc77d248a3cd
-##2.Modéle relationel
+
 ## 🧩 Modèle Relationnel
 
 PATIENT (_id_patient_, nom, prénom, sexe, date_naissance, adresse, téléphone)  
